@@ -1,0 +1,14 @@
+OK: Room Entity
+OK: DAO annotation
+OK: DAO insert
+OK: DAO update
+OK: DAO delete
+OK: DAO Flow read
+OK: RoomDatabase
+OK: Repository
+OK: ViewModel repository dependency
+OK: ViewModel StateFlow from repository
+OK: Navigation parameter retained
+OK: Room dependency
+OK: KSP plugin
+SUMMARY: 13/13 checks passed
